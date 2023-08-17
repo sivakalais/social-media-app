@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 03,2021 11:17:38 AM",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 03,2021 11:17:38 AM",
+      "body": "Lorem Ipsum has been the industry's standard dummy text ever"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 03,2021 11:17:38 AM",
+      "body": "Lorem Ipsum passages, and more recently with desktop publishing software"
+    },
+    {
+      "id": 4,
+      "title": "My 4th Post",
+      "datetime": "July 03,2021 11:17:38 AM",
+      "body": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters"
+    },
+    {
+      "id": 7,
+      "title": "My fifth post",
+      "datetime": "August 11, 2023 6:58:11 PM",
+      "body": "hello"
+    },
+    {
+      "id": 8,
+      "title": "my 6th post",
+      "datetime": "August 11, 2023 7:03:09 PM",
+      "body": "helooo"
+    }
+  ]
+}
